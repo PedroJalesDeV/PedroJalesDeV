@@ -10,7 +10,7 @@
 - Algoritmos e Estruturas de Dados
 
 ## 📫 Como me encontrar?
-- GitHub: [Seu GitHub](https://github.com/PedroJalesDeV)
+- GitHub: [Pedro Jales](https://github.com/PedroJalesDeV)
 - LinkedIn: [Pedro Jales](https://www.linkedin.com/in/pedro-jales-817b30359/)
 
 ## 🔥 Em busca de desafios!

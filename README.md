@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🚀 Olá, sou Pedro Jales!
 
-<!--
-**PedroJalesDeV/PedroJalesDeV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor em formação, focado em **Back-End**
+📚 Estudando **Lógica de Programação** e aprofundando conceitos essenciais
+💡 Buscando aprendizado constante para criar soluções eficientes
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou explorando
+- Python / JavaScript
+- SQL / Banco de Dados
+- Algoritmos e Estruturas de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar?
+- GitHub: [Seu GitHub](https://github.com/PedroJalesDeV)
+- LinkedIn: [Pedro Jales](https://www.linkedin.com/in/pedro-jales-817b30359/)
+
+## 🔥 Em busca de desafios!
+Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades. Fique à vontade para me chamar para colaborações e trocas de conhecimento!
+
